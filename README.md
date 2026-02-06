@@ -81,6 +81,9 @@ What I did
 
 * Configured bucket policies and permissions
 
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62e25fe4-28fc-4522-aec9-804018654932" />
+
+
 * Reviewed risks of public exposure
 
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5fe8d766-920b-4546-b8cb-6d345dd8b5f8" />
