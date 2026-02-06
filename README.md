@@ -83,6 +83,9 @@ What I did
 
 * Reviewed risks of public exposure
 
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5fe8d766-920b-4546-b8cb-6d345dd8b5f8" />
+
+
 Key learning
 
 - Storage misconfiguration is a common cause of data leakage
