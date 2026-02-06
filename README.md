@@ -77,7 +77,8 @@ Objective: To understand secure data storage and access management.
 
 What I did
 
-* Created S3 buckets with object versioning
+* Created S3 bucket
+* Enabled versioning to protect against accidental object deletion
 
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b234a65-7bd2-4660-a96c-2ffdfef82b9b" />
 
